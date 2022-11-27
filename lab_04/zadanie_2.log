@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.15)  27 NOV 2022 13:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.15)  27 NOV 2022 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./zadanie.tex
-(zadanie.tex
+**./zadanie_2.tex
+(zadanie_2.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -219,8 +219,9 @@ nd-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box52
-) (zadanie.aux)
-\openout1 = `zadanie.aux'.
+)
+No file zadanie_2.aux.
+\openout1 = `zadanie_2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -238,7 +239,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -336,44 +336,38 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 72.
-
-[1
+) [1
 
 {/Users/maciej/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/
-pdftex.map}] (zadanie.aux) ) 
+pdftex.map}] [2] (zadanie_2.aux) ) 
 Here is how much of TeX's memory you used:
- 3182 strings out of 478906
- 45495 string characters out of 2849054
- 352353 words of memory out of 3000000
- 21007 multiletter control sequences out of 15000+600000
- 410179 words of font info for 47 fonts, out of 8000000 for 9000
+ 3174 strings out of 478906
+ 45377 string characters out of 2849054
+ 365366 words of memory out of 3000000
+ 21004 multiletter control sequences out of 15000+600000
+ 408656 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,66p,253b,142s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/maciej/Library/Application Support/MiKTeX/t
-exmfs/install/fonts/enc/dvips/pl/plmi.enc}{/Users/maciej/Library/Application Su
-pport/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plms.enc}{/Users/maciej/Library/
-Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plrm.enc}{/Users/m
-aciej/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plme
-.enc}</Users/maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/pl/plex10.pfb></Users/maciej/Library/Application Support/MiKTeX/texmf
-s/install/fonts/type1/public/pl/plmi10.pfb></Users/maciej/Library/Application S
-upport/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi6.pfb></Users/maciej/Lib
-rary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi8.pfb>
-</Users/maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
-blic/pl/plr10.pfb></Users/maciej/Library/Application Support/MiKTeX/texmfs/inst
-all/fonts/type1/public/pl/plr6.pfb></Users/maciej/Library/Application Support/M
-iKTeX/texmfs/install/fonts/type1/public/pl/plr8.pfb></Users/maciej/Library/Appl
-ication Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy10.pfb></Users/
-maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/
-plsy8.pfb>
-Output written on zadanie.pdf (1 page, 60322 bytes).
+ 57i,12n,66p,255b,151s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/maciej/Library/Application Support/Mi
+KTeX/texmfs/install/fonts/enc/dvips/pl/plmi.enc}{/Users/maciej/Library/Applicat
+ion Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plrm.enc}{/Users/maciej/Li
+brary/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/pl/plms.enc}{/U
+sers/maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/p
+l/plme.enc}</Users/maciej/Library/Application Support/MiKTeX/texmfs/install/fon
+ts/type1/public/pl/plex10.pfb></Users/maciej/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/pl/plmi10.pfb></Users/maciej/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi6.pfb></Users/maci
+ej/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plmi
+8.pfb></Users/maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
+pe1/public/pl/plr10.pfb></Users/maciej/Library/Application Support/MiKTeX/texmf
+s/install/fonts/type1/public/pl/plr6.pfb></Users/maciej/Library/Application Sup
+port/MiKTeX/texmfs/install/fonts/type1/public/pl/plr8.pfb></Users/maciej/Librar
+y/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pl/plsy10.pfb></
+Users/maciej/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publ
+ic/pl/plsy8.pfb>
+Output written on zadanie_2.pdf (2 pages, 61012 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
